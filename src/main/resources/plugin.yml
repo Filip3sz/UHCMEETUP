@@ -1,0 +1,7 @@
+name: Filipesz-UHCMEETUP
+version: 0.0.1
+website: discord.gg/SFHhFmRpej
+author: Filipesz
+main: pl.filipesz.uhcmeetup.Main
+commands:
+  list:
